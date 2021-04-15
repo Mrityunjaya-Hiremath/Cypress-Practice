@@ -1,0 +1,5 @@
+id --> #idname
+className --> .classname
+tabgname.classname
+tagname[attribute="value"]
+form input-- parent to child
